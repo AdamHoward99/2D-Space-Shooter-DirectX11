@@ -3,8 +3,8 @@
 
 ## Screenshots
 <p align="center">
-  <img hspace = "30" alt ="Title Screen" src = "https://user-images.githubusercontent.com/74617187/124100892-c27dd080-da56-11eb-9ab3-4073d5dfa7fc.png" height="300" width= "400"/>
-  <img alt ="Gameplay" src = "https://user-images.githubusercontent.com/74617187/124101240-0ffa3d80-da57-11eb-9390-12142530f199.png" height = "300" width = "400"/>
+  <img hspace = "30" alt ="Title Screen" src = "https://user-images.githubusercontent.com/74617187/124100892-c27dd080-da56-11eb-9ab3-4073d5dfa7fc.png" height="400" width= "500"/>
+  <img alt ="Gameplay" src = "https://user-images.githubusercontent.com/74617187/124101240-0ffa3d80-da57-11eb-9390-12142530f199.png" height = "400" width = "500"/>
 </p>
   
 ## How To Use
